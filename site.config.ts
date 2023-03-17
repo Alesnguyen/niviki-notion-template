@@ -53,7 +53,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'KẾ TOÁN - KHO',
-      pageId: '59432e1a0cdf4effbb402701deff00a9'
+      pageId: '61e4b17157b24843b7d01e6d82338e50'
     },    
     {
       title: 'HCNS',
