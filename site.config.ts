@@ -52,19 +52,19 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Blog',
+      title: 'KẾ TOÁN - KHO',
       pageId: '59432e1a0cdf4effbb402701deff00a9'
     },    
     {
-      title: 'NoCode VN',
+      title: 'HCNS',
       pageId: '93331fa2964045248502bd314019c917'
     },    
     {
-      title: 'Khoá học',
+      title: 'SALES',
       pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
     },    
     {
-      title: 'About',
+      title: 'MARKETING',
       pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
     }
   ]
