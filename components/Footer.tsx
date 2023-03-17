@@ -36,16 +36,15 @@ export const FooterImpl: React.FC = () => {
   return (
     <footer className={styles.footer + " ft-custom"}>
       <div className={styles.copyright + " ft-p-1"}>
-        Copyright 2015-2023
+      © Copyrights 2023 VNPETRO JSC
         <div>{config.author}</div>
         <br/>
         <div>
-          Liên kết:
+        HỖ TRỢ:
         </div>
-        <a href="https://toidicodedao.com/" target="_blank" rel="noreferrer">Tôi đi code dạo</a> |
-        <a href="https://laptrinhcuocsong.com/" target="_blank" rel="noreferrer"> Lập trình cuộc sống</a>
-        <br/><a href="https://discord.gg/6SFW4yydvG" target="_blank" rel="noreferrer">Join Discord Channel để giao lưu
-        với nhau nhé 🙋‍♂️</a>
+        <a href="https://vnpetro.com.vn/gioi-thieu" target="_blank" rel="noreferrer">Về VNPETRO</a> <br/>
+        <a href="https://vnpetro.com.vn/linh-vuc-hoat-dong" target="_blank" rel="noreferrer">Lĩnh vực hoạt động</a>
+        <br/><a href="https://vnpetro.com.vn/doi-tac-toan-cau" target="_blank" rel="noreferrer">Đối tác toàn cầu</a>
       </div>
 
       <div className={styles.social + " ft-p-2"}>
