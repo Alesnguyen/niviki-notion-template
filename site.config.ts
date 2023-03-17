@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'VNPETRO Digital Asset Management',
   domain: 'vnpetro.com.vn',
-  author: 'Alesnguyen',
+  author: 'Make by Alesnguyen',
 
   // open graph metadata (optional)
   description: 'Dễ dàng tìm kiếm tài liệu về quy trình, chính sách, nội quy, ấn phẩm,... với hệ thống tài nguyên nội bộ (VNPETRO DAM)',
@@ -19,7 +19,7 @@ export default siteConfig({
   facebook: 'https://www.facebook.com/VNPETRO.official/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'https://www.youtube.com/@vnpetro5666', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/UCEypUzi4lEJHuY6qOT6OJ1A', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
