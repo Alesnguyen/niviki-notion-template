@@ -57,15 +57,15 @@ export default siteConfig({
     },    
     {
       title: 'HCNS',
-      pageId: '93331fa2964045248502bd314019c917'
+      pageId: 'ae87460b29924d53b71514317b7d99ea'
     },    
     {
       title: 'SALES',
-      pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
+      pageId: '452a5ef3ad6b4e969672565cdd2171df'
     },    
     {
       title: 'MARKETING',
-      pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
+      pageId: '14c2579be1cf4bc3b8e8b877dec14fe8'
     }
   ]
 })
