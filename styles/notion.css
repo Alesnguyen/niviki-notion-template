@@ -6,6 +6,7 @@
  * whereas our goal with this site is to adjust Notion's styling in a few key
  * places to add some flare.
  */
+<link rel="stylesheet" href="https://sites.super.so/ascent/css/style.css">
 
 .notion {
   --notion-max-width: 720px;
